@@ -1,0 +1,1 @@
+While not thought of as the conclusion of information. Now everything is stored in the attribute self.dateRangeSun, which is populated after calling self.getResult()
